@@ -21,11 +21,11 @@
 
 **File Structure**
   .
-  ├── index.html   # Main HTML file containing the music player layout
-  ├── style.css    # Stylesheet for UI design
-  ├── script.js    # JavaScript file for music player functionality
-  ├── images/      # Folder containing track images (not included here)
-  ├── music/       # Folder containing music files (not included here)
+  ├── index.html   
+  ├── style.css   
+  ├── script.js    
+  ├── images/      
+  ├── music/       
 
 **Setup and Usage**
   Clone the repository or download the files.
