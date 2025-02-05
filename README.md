@@ -20,7 +20,8 @@
   JavaScript
 
 **File Structure**
-  .
+
+  
   ├── index.html   
   ├── style.css   
   ├── script.js    
