@@ -15,9 +15,9 @@
 
 **Technologies Used**
 
-  HTML
-  CSS
-  JavaScript
+  HTML,
+  CSS,
+  JavaScript.
 
 **File Structure**
 
